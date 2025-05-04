@@ -1,4 +1,7 @@
-## Hi there 👋
+## Mangcepdev In The House 👋
+
+![My Langs Portfolio](https://github-readme-stats.vercel.app/api/top-langs/?username=mangcecep&langs_count=8)
+
 
 ![Mang Cecep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangcecep&show_icons=true&theme=radical)
 
